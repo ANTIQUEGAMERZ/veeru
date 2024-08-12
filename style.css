@@ -8,3 +8,7 @@ h1 {
 details {
 color: black;
 }
+h2 {
+    color: blue;
+    background-color: black;
+}
