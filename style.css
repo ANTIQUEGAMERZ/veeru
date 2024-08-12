@@ -10,7 +10,9 @@ h1 {
   background-color: black;
 }
 details {
-color: blue;
+color: white;
+border-color: blue;
+border-radius: 5rem; 
 }
 h2 {
     color: blue;
