@@ -1,6 +1,6 @@
 body {
     font-size: 20pt;
-    color: blue;
+    color: white;
     background-color: black;
 }
 h1 {
@@ -15,5 +15,5 @@ h2 {
     color: blue;
     background-color: black;
 font-size: 30pt;
-
+border-radius: 2rem;
 }
