@@ -2,11 +2,12 @@ body {
     font-size: 20pt;
     color: white;
     background-color: black;
+    
 }
 h1 {
-  font-size: 28pt;
+  font-size: 24pt;
   color: #FFC107;
-    background-color: black;
+  background-color: black;
 }
 details {
 color: blue;
@@ -14,6 +15,7 @@ color: blue;
 h2 {
     color: blue;
     background-color: black;
-font-size: 30pt;
-border-radius: 2rem;
+    font-size: 30pt;
+    border-radius: 2rem;
+    border-color: white;
 }
