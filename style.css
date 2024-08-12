@@ -1,14 +1,19 @@
 body {
     font-size: 20pt;
+    color: blue;
+    background-color: black;
 }
 h1 {
   font-size: 28pt;
   color: #FFC107;
+    background-color: black;
 }
 details {
-color: black;
+color: blue;
 }
 h2 {
     color: blue;
     background-color: black;
+font-size: 30pt;
+
 }
